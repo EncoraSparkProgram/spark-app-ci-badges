@@ -1,1 +1,6 @@
-{ "message": "not run", "color": "lightgrey" }
+{
+    "schemaVersion": 1,
+    "label": "build",
+    "message": "failing",
+    "color": "red"
+}
