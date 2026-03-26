@@ -1,1 +1,6 @@
-{ "message": "not run", "color": "lightgrey" }
+{
+    "schemaVersion": 1,
+    "label": "coverage",
+    "message": "58.8%",
+    "color": "orange"
+}
